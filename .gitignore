@@ -1,0 +1,6 @@
+# Ignore node modules from all folders
+**/node_modules
+**/dist
+
+# Optional: hide env
+*.env
